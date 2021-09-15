@@ -1,0 +1,1 @@
+{"version":3,"file":"gzip.js","sourceRoot":"","sources":["../../../src/middleware/gzip.ts"],"names":[],"mappings":";;;;;AAAA,8DAAsC;AAGtC,kBAAe,IAAA,qBAAW,EAAC;IAC1B,MAAM,EAAE,CAAC,GAAG,EAAE,EAAE,CAAC,CAAC,GAAG,CAAC,KAAK,CAAC,cAAc,CAAC,cAAc,CAAC,IAAI,GAAG,CAAC,MAAM,CAAC,UAAU,CAAC,KAAK,OAAO;IAChG,KAAK,EAAE,CAAC;CACR,CAAC,CAAC"}
