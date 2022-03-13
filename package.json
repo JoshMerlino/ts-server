@@ -48,7 +48,7 @@
     },
     "dependencies": {
         "async-require-context": "^1.8.13",
-        "chalk": "^4.1.2",
+        "chalk": "4.x.x",
         "compression": "^1.7.4",
         "cookie-parser": "^1.4.6",
         "cors": "^2.8.5",
@@ -57,7 +57,7 @@
         "extract-zip": "^2.0.1",
         "filestore-json": "^1.1.8",
         "mkdirp": "^1.0.4",
-        "node-fetch": "^2.6.7",
+        "node-fetch": "2.x.x",
         "uuid": "^8.3.2",
         "yaml": "^1.10.2"
     }
